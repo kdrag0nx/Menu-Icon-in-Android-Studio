@@ -1,13 +1,18 @@
 # Menu Icon in Android Studio
  This is the code ofthe video tutorials published on Youtube , check it out !!
+ ---
  
  In order to run the app go to _**app** -> **RELEASE** ->  **app-release.apk**_
+ ---
  
  **Language Used** ``JAVA``
+ ---
  
  |Activity | 1 |
  |---|---|
  |Xml Files | 2 |
+
+---
  
  
  ``MainActivity Code``
@@ -57,4 +62,6 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
->Keep Smiling
+---
+
+>Keep Smiling :)
