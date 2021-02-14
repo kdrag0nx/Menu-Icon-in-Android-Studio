@@ -5,6 +5,10 @@
  In order to run the app go to _**app** -> **RELEASE** ->  **app-release.apk**_
  ---
  
+ ***
+ [Menu Icon in Android Studio](https://www.youtube.com/watch?v=BQxscqS29zQ "Crazy Indian Coder")
+ ***
+ 
  **Language Used** ``JAVA``
  ---
  
